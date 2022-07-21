@@ -1,0 +1,3 @@
+O aprendizado ao conteúdo Git e Github por mais que eu já conhecia, não tinha costume de utilizar, porem ao perceber o quão importante é para 
+carreira profissional do Dev, assim que finalizar os estudos ao que estou dedicado no momento, irei reservar um tempo para subir todos meus projetos 
+que estão em minha maquina local para o Github utilizando os comandos e aprendizados obtidos com o curso.
