@@ -1,7 +1,7 @@
-## _Desenvolvedor Fullstack Santander_
+Desenvolvedor Fullstack Santander
 
-- Lógica de Programação
-- Git 
-- Github
-- Java
-- Angular
+Lógica de Programação
+Git 
+Github
+Java
+Angular
